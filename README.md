@@ -1,6 +1,8 @@
 # fsharp-kestrel
 Kestrel example in F#
 
-dotnet restore
-dotnet build
-dotnet run
+#How to run
+
+1. Run `dotnet restore` to restore packages
+1. Run `dotnet run` to compile and start server
+
